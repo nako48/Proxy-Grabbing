@@ -20,7 +20,7 @@
                                       ------------------------------------
 
 # Installing
-$ git clone https://github.com/nako48/Sagala-Checker/
+$ git clone https://github.com/nako48/Proxy-Grabbing/
 </br>
 $ cd Proxy-Grabbing
 </br>
