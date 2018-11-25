@@ -25,4 +25,3 @@ $ git clone https://github.com/nako48/Proxy-Grabbing/
 $ cd Proxy-Grabbing
 </br>
 $ bash getproxy.sh
-
